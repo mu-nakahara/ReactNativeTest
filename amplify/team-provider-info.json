@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactnativetest-dev-152521-authRole",
+      "UnauthRoleArn": "arn:aws:iam::936212274684:role/amplify-reactnativetest-dev-152521-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::936212274684:role/amplify-reactnativetest-dev-152521-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-reactnativetest-dev-152521-deployment",
+      "UnauthRoleName": "amplify-reactnativetest-dev-152521-unauthRole",
+      "StackName": "amplify-reactnativetest-dev-152521",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:936212274684:stack/amplify-reactnativetest-dev-152521/52cf99e0-d214-11ee-9162-0a6912ea5177",
+      "AmplifyAppId": "du4pj17ewfodz"
+    },
+    "categories": {
+      "auth": {
+        "reactnativetestf7079a00": {}
+      }
+    }
+  }
+}
