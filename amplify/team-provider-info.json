@@ -16,5 +16,23 @@
         "reactnativetestf7079a00": {}
       }
     }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactnativetest-test-a6cc7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::936212274684:role/amplify-reactnativetest-test-a6cc7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::936212274684:role/amplify-reactnativetest-test-a6cc7-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-reactnativetest-test-a6cc7-deployment",
+      "UnauthRoleName": "amplify-reactnativetest-test-a6cc7-unauthRole",
+      "StackName": "amplify-reactnativetest-test-a6cc7",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:936212274684:stack/amplify-reactnativetest-test-a6cc7/38a94780-1fbe-11ef-b341-0e92b5ace32d",
+      "AmplifyAppId": "d3ogydqnepmp1f"
+    },
+    "categories": {
+      "auth": {
+        "reactnativetestf7079a00": {}
+      }
+    }
   }
 }
